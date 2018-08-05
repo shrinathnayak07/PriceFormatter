@@ -6,8 +6,12 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrinathnayak07/priceformatter.git"
+  },
   "keywords": [
-    "rupee",
+    "price",
     "formatter"
   ],
   "author": "Shrinath Nayak (www.shrinathnayak.in)",
