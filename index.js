@@ -28,4 +28,3 @@ module.exports = function priceformatter(price) {
   }
   return NaN;
 };
-

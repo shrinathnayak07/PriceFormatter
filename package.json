@@ -1,23 +1,15 @@
 {
-  "name": "rnf-rupeeformatter",
-  "version": "1.0.0",
-  "description": "",
+  "name": "priceformatter",
+  "version": "2.0.0",
+  "description": "A small library that converts number to Thousands, Lakhs and Crore.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/shrinathnayak07/RupeeFormatter.git"
-  },
   "keywords": [
-    "Rupee",
-    "Formatter"
+    "rupee",
+    "formatter"
   ],
-  "author": "Shrinath Nayak <shrinathnayak07@gmail.com> (www.shrinathnayak.in)",
-  "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/shrinathnayak07/RupeeFormatter/issues"
-  },
-  "homepage": "https://github.com/shrinathnayak07/RupeeFormatter#readme"
+  "author": "Shrinath Nayak (www.shrinathnayak.in)",
+  "license": "ISC"
 }

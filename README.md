@@ -1,17 +1,16 @@
-# RupeeFormatter
+# priceFormatter
 
 A small library that converts number to Thousands, Lakhs and Crore.
 
 ## Installation
 
-  `npm install rupeeformatter`
+  `npm install priceformatter`
 
 ## Usage
 
-    var rupeeformatter = require('rupeeformatter');
+    var priceformatter = require('priceformatter');
 
-    var formattedNum = rupeeformatter(35666);
+    var formattedNum = priceformatter(35666);
 
 
   Output will be `₹35.66K`
-
