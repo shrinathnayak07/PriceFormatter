@@ -1,0 +1,23 @@
+{
+  "name": "rnf-rupeeformatter",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shrinathnayak07/RupeeFormatter.git"
+  },
+  "keywords": [
+    "Rupee",
+    "Formatter"
+  ],
+  "author": "Shrinath Nayak <shrinathnayak07@gmail.com> (www.shrinathnayak.in)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shrinathnayak07/RupeeFormatter/issues"
+  },
+  "homepage": "https://github.com/shrinathnayak07/RupeeFormatter#readme"
+}
